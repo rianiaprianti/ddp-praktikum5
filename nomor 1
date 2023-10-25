@@ -1,0 +1,5 @@
+kendaraan = ["Beat", "kendaraan darat", "120", "merah", "2"]
+kendaraan.append("20.000.000")
+kendaraan.append("honda beat")
+kendaraan.insert(1,"honda")
+print(kendaraan)
